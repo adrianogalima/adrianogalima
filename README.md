@@ -13,10 +13,11 @@ I'm Adriano Lima, I am a junior dev passionate about challenges!
 <b>Languages and Tools:</b>
 <br>
 <br>
-<img align="left" alt="gmail" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuspKjKxXgABkRelAAyT-yjDbapueYgL-ag&s" alt="logo-HTML"/>
-<img align="left" alt="gmail" width="22px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoW-PbNnnL4rSdys2ReJ1UFMg4bmZB7jTF7w&s" alt="logo-CSS"/>
-<img align="left" alt="gmail" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmHL7LNxaBXFW7keVWQhJexEEmFLkCeK2FA&s" alt="logo-Js"/>
-<img align="left" alt="gmail" width="22px" src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="logo-react"/>
+<img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTuspKjKxXgABkRelAAyT-yjDbapueYgL-ag&s" alt="logo-HTML"/>
+<img align="left" width="22px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoW-PbNnnL4rSdys2ReJ1UFMg4bmZB7jTF7w&s" alt="logo-CSS"/>
+<img align="left" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShmHL7LNxaBXFW7keVWQhJexEEmFLkCeK2FA&s" alt="logo-Js"/>
+<img align="left" width="22px" src="https://images.icon-icons.com/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="logo-react"/>
+<img aling="left" width="22px" src="https://images.icon-icons.com/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="logo-mysql"/>
 <br>
 <br>
 [![Adriano Status](https://github-readme-stats.vercel.app/api?username=adrianogalima)](https://github.com/anuraghazra/github-readme-stats)
